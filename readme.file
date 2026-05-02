@@ -1,0 +1,8 @@
+
+
+project name : The name of my project is summer-project in jackfruit folder.
+
+purpose : showing different kinds of summer-projects if there is no user loged in so that it cann't see the products. and adding soome authnication system.
+
+key features : add tailwind-css , animated-css , used next.js libary , mongodb for database and also used betterauth..to desgin cards,header,footer also daisy ui custome libary.
+
